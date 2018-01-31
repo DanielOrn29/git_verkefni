@@ -65,3 +65,7 @@ Git Spurningar og svör
 
 10. GIT er mest notað fyrir fyrirtæki og fyrir verkefni.
 
+<<<<<<< HEAD
+=======
+Daníel Örn Sigurðsson
+>>>>>>> hofundur
