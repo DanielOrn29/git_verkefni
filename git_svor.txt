@@ -47,4 +47,10 @@ Git Spurningar og svör
 
 6. Gott er að ákveða breytingarnar ef það eru miklar breytingar í skjalinu.
 
+7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+7. Working directory: Er mappan sem maður er í.
+   Staging area: Er staður sem maður gerir breytingar áður en maður ákveður í möppu.
+   Repository: Er geymsla sem geymir allar ákvarðanir.
+
  
