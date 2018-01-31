@@ -53,4 +53,7 @@ Git Spurningar og svör
    Staging area: Er staður sem maður gerir breytingar áður en maður ákveður í möppu.
    Repository: Er geymsla sem geymir allar ákvarðanir.
 
- 
+8. Hvenær er sniðugt að nota greinar (branches)? 
+
+8. Greinar eru góðar til að skipta verkefnum í flokka.
+
