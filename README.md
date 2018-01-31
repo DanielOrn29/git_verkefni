@@ -14,8 +14,7 @@
 
 * Fyrirbyggjandi viðhald er að athuga stundum hvort allt sé í lagi í tölvunni og skoðar yfir það sem er í tölvunni.
 
-#### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
-verjast því þegar unnið er með tölvubúnað?
+#### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 
 * ESD stendur fyrir Electrostatic Discharge. Það getur orðið ef tveir tölvubúnaðir er rafmagnaðir við hliðina á hvort öðru. Til að koma í veg við þetta er hægt að passa sig að rakastigið er yfir 40%, hægt er að vera með tölvubúnaðinn á gólfinu svo rafmagnið fer þangað.
 
@@ -28,7 +27,6 @@ verjast því þegar unnið er með tölvubúnað?
 * Fyrsta lagi þarf að vita eitthvað um vandamálið, öðru lagi þarf að útiloka hvað er að, þriðja lagi er að finna út lausnir á vandamálunum, fjórða lagi er að prufa lausnirnar sem maður var kominn með, fimmta lagi er að ákveða hvernig og hvenær á að leysa vandamálin, í sjötta og seinasta lagi að skrifa niður hvað var að og hvað lagaði vesenið.
 
 #### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
-Nefnið dæmi um báðar gerðir af spurningum.
 
 * Open ended spurning er þegar maður getur komið með setningar af efni sem svar en closed ended spurning hefur ekki nema stutt svar sem getur t.d. bara verið með 1 svar. 
 
