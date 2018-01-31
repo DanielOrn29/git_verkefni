@@ -2,45 +2,45 @@
 
 ## Spurningar
 
-1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+#### 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 
 * RAM þýðir Random Access Memory og er minni fyrir tölvu. RAM er það sem heldur uppi gluggum í tölvum og hjálpar móðurborðinu að vinna.
 
-2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+#### 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 
 * ROM stendur fyrir Read-only memory. Read only útskýrir það að Rom les bara gögn og ekki hægt að breyta þeim.
 
-3. Hvað er fyrirbyggjandi viðhald?
+#### 3. Hvað er fyrirbyggjandi viðhald?
 
 * Fyrirbyggjandi viðhald er að athuga stundum hvort allt sé í lagi í tölvunni og skoðar yfir það sem er í tölvunni.
 
-4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+#### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað?
 
 * ESD stendur fyrir Electrostatic Discharge. Það getur orðið ef tveir tölvubúnaðir er rafmagnaðir við hliðina á hvort öðru. Til að koma í veg við þetta er hægt að passa sig að rakastigið er yfir 40%, hægt er að vera með tölvubúnaðinn á gólfinu svo rafmagnið fer þangað.
 
-5. Hvað þarf að hafa í huga við val á spennugjöfum?
+#### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
 * Maður þarf að vita hversu mikið rafmagn sme móðurborðið þarf og þá velur maður spennugjafa sem getur höndlað móðurborðið og annað í tölvunni.
 
-6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+#### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
 * Fyrsta lagi þarf að vita eitthvað um vandamálið, öðru lagi þarf að útiloka hvað er að, þriðja lagi er að finna út lausnir á vandamálunum, fjórða lagi er að prufa lausnirnar sem maður var kominn með, fimmta lagi er að ákveða hvernig og hvenær á að leysa vandamálin, í sjötta og seinasta lagi að skrifa niður hvað var að og hvað lagaði vesenið.
 
-7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+#### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
 
 * Open ended spurning er þegar maður getur komið með setningar af efni sem svar en closed ended spurning hefur ekki nema stutt svar sem getur t.d. bara verið með 1 svar. 
 
-8. Hvað eru jaðartæki?
+#### 8. Hvað eru jaðartæki?
 
 * Eru tæki eins og mýs, prentarar, skjáir, lyklaborð sem er tengd í tölvuna fyrir output.
 
-9. Nefndu þrjú dæmi um inntakstæki.
+#### 9. Nefndu þrjú dæmi um inntakstæki.
 
 * Innstakstæki eru tæki eins og mýs, lyklaborð og myndvélar sem eru með input. 
 
-10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+#### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
