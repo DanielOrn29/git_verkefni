@@ -13,3 +13,18 @@ Git Spurningar og svör
    ls: Sýnir allar möppur og skjöl í skjalinu sem maður er í.
    pwd: Sýnir möppuna sem maður er í.
    mkdir: Býr til nýtt skjal. 
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+
+2. 
+   git clone: Býr til annað afrit af möppu sem maður á.
+   git log: Leyfir manni að sjá hvað gerðist eða þá sögu fyrir ákveðna möppu.
+   git status: Sýnir stöðuna á möppuni þinni.
+   git diff: Sýnir breytt skjöl.
+   git checkout: Breytir yfir í aðrar greinar.
+
