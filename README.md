@@ -1,1 +1,1 @@
-#Fyrsta Git Verkefnið
+# Fyrsta Git Verkefnið
