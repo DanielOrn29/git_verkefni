@@ -25,4 +25,9 @@ verjast því þegar unnið er með tölvubúnað?
 
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
-* Fyrsta lagi þarf að vita eitthvað um vandamálið, öðru lagi þarf að útiloka hvað er að, þriðja lagi er að finna út lausnir á vandamálunum, fjórða lagi er að prufa lausnirnar sem maður var kominn með, fimmta lagi er að ákveða hvernig og hvenær á að leysa vandamálin, í sjötta og seinasta lagi að skrifa niður hvað var að og hvað lagaði vesenið. 
+* Fyrsta lagi þarf að vita eitthvað um vandamálið, öðru lagi þarf að útiloka hvað er að, þriðja lagi er að finna út lausnir á vandamálunum, fjórða lagi er að prufa lausnirnar sem maður var kominn með, fimmta lagi er að ákveða hvernig og hvenær á að leysa vandamálin, í sjötta og seinasta lagi að skrifa niður hvað var að og hvað lagaði vesenið.
+
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+
+* Open ended spurning er þegar maður getur komið með setningar af efni sem svar en closed ended spurning hefur ekki nema stutt svar sem getur t.d. bara verið með 1 svar. 
