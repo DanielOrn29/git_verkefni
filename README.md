@@ -35,3 +35,7 @@ Nefnið dæmi um báðar gerðir af spurningum.
 8. Hvað eru jaðartæki?
 
 * Eru tæki eins og mýs, prentarar, skjáir, lyklaborð sem er tengd í tölvuna fyrir output.
+
+9. Nefndu þrjú dæmi um inntakstæki.
+
+* Innstakstæki eru tæki eins og mýs, lyklaborð og myndvélar sem eru með input. 
