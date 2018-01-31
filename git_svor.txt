@@ -28,3 +28,10 @@ Git Spurningar og svör
    git diff: Sýnir breytt skjöl.
    git checkout: Breytir yfir í aðrar greinar.
 
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+3. Git diff: Sýnir breytt skjöl, git diff --staged hefur samheitið git diff --cached og sýnir beytt skjöl á uppsetningarsvæðinu, git diff commit1 commit2 ber saman ákvarðanirnar og finnur breytinguna á þeim.
+
