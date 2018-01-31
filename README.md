@@ -39,3 +39,20 @@ Nefnið dæmi um báðar gerðir af spurningum.
 9. Nefndu þrjú dæmi um inntakstæki.
 
 * Innstakstæki eru tæki eins og mýs, lyklaborð og myndvélar sem eru með input. 
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+
+| Íhlutir          | Heiti á íhluti                             | Kostnaður  | Verslun       |
+|:----------------:|:------------------------------------------:|:----------:|:-------------:|
+| Örgjörvi         | Intel Core i5 8400 örgjörvi                | 26.950kr 	 | Att		     | 
+| Örgjörva kæling  | Corsair SP120 2 PWM                        | 7.196kr 	 | Tölvulistinn  |
+| Móðurborð        | Aorus Z370 Gaming 7                        | 39.900kr   | Ódýrið        |
+| Minni            | Crucial 16GB kit (2x8GB) DDR4 2133MHz, CL15| 22.900kr   | Tölvutækni    |
+| Harður diskur HDD| Seagate IronWolf 10TB diskur               | 51.950kr   | Att           |
+| Skjákort         | MSI GTX1060                                | 44.450kr   | Att           |
+| Turn             | Cooler Master Dominator 690 III            | 17.497kr   | Tölvulistinn  |
+| Aflgjafi         | Corsair RM750x                             | 20.950kr   | Att           |
+| Heildarverð      | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx | 231.793kr  | xxxxxxxxxxxxx |
