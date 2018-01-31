@@ -57,3 +57,7 @@ Git Spurningar og svör
 
 8. Greinar eru góðar til að skipta verkefnum í flokka.
 
+9. Hver fann upp GIT?
+
+9. Linus Torvald bjó til GIT 2005 en hann Junio Hamano tók við GIT seinna árið 2005.
+
