@@ -39,4 +39,8 @@ Git Spurningar og svör
 
 4. e.versian control er það sem stýrir hvaða útgáfur maður vill fara í.
 
+5. Hverjir eru helstu kostir við að nota GIT?
+
+5. Í fyrsta lagi er gott að nota GIT því það er frítt. GIT er líka gott fyrir hópaverkefni.
+
  
