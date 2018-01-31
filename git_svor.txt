@@ -43,4 +43,8 @@ Git Spurningar og svör
 
 5. Í fyrsta lagi er gott að nota GIT því það er frítt. GIT er líka gott fyrir hópaverkefni.
 
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+6. Gott er að ákveða breytingarnar ef það eru miklar breytingar í skjalinu.
+
  
