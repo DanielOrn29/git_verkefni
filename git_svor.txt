@@ -35,3 +35,8 @@ Git Spurningar og svör
 
 3. Git diff: Sýnir breytt skjöl, git diff --staged hefur samheitið git diff --cached og sýnir beytt skjöl á uppsetningarsvæðinu, git diff commit1 commit2 ber saman ákvarðanirnar og finnur breytinguna á þeim.
 
+4. Hvað er útgáfustýring (e.version control)?
+
+4. e.versian control er það sem stýrir hvaða útgáfur maður vill fara í.
+
+ 
