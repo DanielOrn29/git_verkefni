@@ -31,3 +31,7 @@ verjast því þegar unnið er með tölvubúnað?
 Nefnið dæmi um báðar gerðir af spurningum.
 
 * Open ended spurning er þegar maður getur komið með setningar af efni sem svar en closed ended spurning hefur ekki nema stutt svar sem getur t.d. bara verið með 1 svar. 
+
+8. Hvað eru jaðartæki?
+
+* Eru tæki eins og mýs, prentarar, skjáir, lyklaborð sem er tengd í tölvuna fyrir output.
