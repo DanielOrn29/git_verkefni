@@ -9,3 +9,7 @@
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 
 2. ROM stendur fyrir Read-only memory. Read only útskýrir það að Rom les bara gögn og ekki hægt að breyta þeim.
+
+3. Hvað er fyrirbyggjandi viðhald?
+
+3. Fyrirbyggjandi viðhald er að athuga stundum hvort allt sé í lagi í tölvunni og skoðar yfir það sem er í tölvunni.
