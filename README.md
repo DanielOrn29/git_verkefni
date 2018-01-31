@@ -18,3 +18,7 @@
 verjast því þegar unnið er með tölvubúnað?
 
 4. ESD stendur fyrir Electrostatic Discharge. Það getur orðið ef tveir tölvubúnaðir er rafmagnaðir við hliðina á hvort öðru. Til að koma í veg við þetta er hægt að passa sig að rakastigið er yfir 40%, hægt er að vera með tölvubúnaðinn á gólfinu svo rafmagnið fer þangað.
+
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+
+5. Maður þarf að vita hversu mikið rafmagn sme móðurborðið þarf og þá velur maður spennugjafa sem getur höndlað móðurborðið og annað í tölvunni.
