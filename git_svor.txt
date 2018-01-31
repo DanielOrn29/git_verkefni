@@ -61,3 +61,7 @@ Git Spurningar og svör
 
 9. Linus Torvald bjó til GIT 2005 en hann Junio Hamano tók við GIT seinna árið 2005.
 
+10. Hvar er GIT helst notað?
+
+10. GIT er mest notað fyrir fyrirtæki og fyrir verkefni.
+
