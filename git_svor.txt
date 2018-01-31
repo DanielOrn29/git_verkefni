@@ -13,3 +13,56 @@ Git Spurningar og svör
    ls: Sýnir allar möppur og skjöl í skjalinu sem maður er í.
    pwd: Sýnir möppuna sem maður er í.
    mkdir: Býr til nýtt skjal. 
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+
+2. 
+   git clone: Býr til annað afrit af möppu sem maður á.
+   git log: Leyfir manni að sjá hvað gerðist eða þá sögu fyrir ákveðna möppu.
+   git status: Sýnir stöðuna á möppuni þinni.
+   git diff: Sýnir breytt skjöl.
+   git checkout: Breytir yfir í aðrar greinar.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+3. Git diff: Sýnir breytt skjöl, git diff --staged hefur samheitið git diff --cached og sýnir beytt skjöl á uppsetningarsvæðinu, git diff commit1 commit2 ber saman ákvarðanirnar og finnur breytinguna á þeim.
+
+4. Hvað er útgáfustýring (e.version control)?
+
+4. e.versian control er það sem stýrir hvaða útgáfur maður vill fara í.
+
+5. Hverjir eru helstu kostir við að nota GIT?
+
+5. Í fyrsta lagi er gott að nota GIT því það er frítt. GIT er líka gott fyrir hópaverkefni.
+
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+6. Gott er að ákveða breytingarnar ef það eru miklar breytingar í skjalinu.
+
+7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+7. Working directory: Er mappan sem maður er í.
+   Staging area: Er staður sem maður gerir breytingar áður en maður ákveður í möppu.
+   Repository: Er geymsla sem geymir allar ákvarðanir.
+
+8. Hvenær er sniðugt að nota greinar (branches)? 
+
+8. Greinar eru góðar til að skipta verkefnum í flokka.
+
+9. Hver fann upp GIT?
+
+9. Linus Torvald bjó til GIT 2005 en hann Junio Hamano tók við GIT seinna árið 2005.
+
+10. Hvar er GIT helst notað?
+
+10. GIT er mest notað fyrir fyrirtæki og fyrir verkefni.
+
+Daníel Örn Sigurðsson
